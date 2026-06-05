@@ -1,11 +1,11 @@
-# 🏠 Airbnb Revenue Optimization
+# Airbnb Revenue Optimization
 ### Leveraging Machine Learning & Market Segmentation to Maximize Host Revenue
 
 > **Purdue University | MS Business Analytics & Information Management**
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Airbnb hosts face a persistent challenge: how do you maximize revenue and occupancy in an increasingly competitive marketplace? This project applies end-to-end data science — from exploratory analysis and clustering to predictive modeling and time series forecasting — to a dataset of **39,150 Airbnb listings** to uncover what actually drives host performance and revenue.
 
@@ -13,7 +13,7 @@ The analysis identifies four distinct market segments, quantifies the financial 
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 - Hosts struggle to identify which factors — pricing, availability, amenities, reviews — most influence their revenue
 - Superhost status is widely perceived as valuable, but its actual financial impact was unquantified
@@ -24,7 +24,7 @@ The analysis identifies four distinct market segments, quantifies the financial 
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 | Attribute | Detail |
 |---|---|
@@ -115,7 +115,7 @@ Built classification models to predict whether a host will achieve Superhost sta
 
 ---
 
-## 💡 Strategic Recommendations
+## Strategic Recommendations
 
 | Segment | Strategy |
 |---|---|
@@ -128,7 +128,7 @@ Built classification models to predict whether a host will achieve Superhost sta
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 `Python` `pandas` `scikit-learn` `LightGBM` `XGBoost` `CatBoost` `statsmodels` `matplotlib` `seaborn` `yellowbrick`
 
@@ -136,7 +136,7 @@ Built classification models to predict whether a host will achieve Superhost sta
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 airbnb-revenue-optimization/
@@ -158,13 +158,13 @@ airbnb-revenue-optimization/
 
 ---
 
-## 🎓 Context
+## Context
 
 This project was completed as part of the **AI for Business Decisions (AIBD)** course in the MS Business Analytics & Information Management program at **Purdue University, Daniels School of Business**.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Vandana Brahmasa**
 [LinkedIn](https://www.linkedin.com/in/vandana-brahmasa) | [vandanabrahmasa92@gmail.com](mailto:vandanabrahmasa92@gmail.com)
